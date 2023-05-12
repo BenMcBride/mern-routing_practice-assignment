@@ -19,7 +19,7 @@ const Input = () => {
     } // if input is not a number
     else {
       return (
-        <h1>The word is: hello</h1>
+        <h1>The word is: {input}</h1>
       )
     }
   }
